@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Peter
-#### I am DevOp Engineer.  
 
 Skills: Rust / Go / Python / JS / C,C++ / Shell / VHDL / Assembly 
 
