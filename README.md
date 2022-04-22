@@ -1,6 +1,4 @@
-### Hi there 👋, My name is Peter
-
-Programming  |  Rust / Go / Python / JS / C,C++ / Shell / VHDL / Assembly
+### Hi there 👋
 
 📫 How to reach me: mail@peterzam.dev | [PGP🔑](github.com/peterzam.gpg)
 
